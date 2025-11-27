@@ -15,7 +15,7 @@ async def get_health():
     """
     Returns status code 200
     """
-    # Initialize the array with "description"
+    # Initialize the array with "description  "
     capabilities = ["description"]
 
     # Check if the environment variable is set
